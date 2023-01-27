@@ -36,3 +36,5 @@ MIT
 Valerie Calle
 ## Project Status
 Project Finished.
+## Project Preview
+<img width="1278" alt="Screen Shot 2023-01-26 at 9 32 12 PM" src="https://user-images.githubusercontent.com/101648427/214997856-53decd19-cb93-4542-b3fb-106e5f2d5c77.png">
